@@ -35,6 +35,7 @@ body {
 
 a {
     font-size: 2rem;
+    font-family: monospace, sans-serif;
     text-decoration: none;
     color: rgba(115, 79, 20, 0.852);
 }
