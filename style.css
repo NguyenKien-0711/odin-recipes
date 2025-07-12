@@ -1,0 +1,40 @@
+body {
+    background-color: #f3ead4e3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    color: #333;
+    font-family: monospace, sans-serif;
+    margin-top: 20px;
+    color: rgba(239, 163, 40, 0.852);
+    font-size: 3rem;
+}
+
+.theme {
+    text-align: center;
+    color: #333;
+    font-family: monospace, sans-serif;
+    margin-top: 10px;
+    color: rgba(239, 163, 40, 0.852);
+    font-size: 2rem;
+}
+
+.recipes-list {
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    border: #785406 solid 2px;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: rgba(115, 79, 20, 0.852);
+}
